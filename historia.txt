@@ -4,7 +4,7 @@ david tiene 37 años, naci en lima
 
 estudio en la UNMSM
 
-proyecto principal la plantilla de sistemas
+proyecto principal la plantilla de sistemas y definicion de la arquitectura de software
 
 hoy soy el arquitecto
 
