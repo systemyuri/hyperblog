@@ -9,3 +9,5 @@ proyecto principal la plantilla de sistemas y definicion de la arquitectura de s
 hoy soy el arquitecto
 
 actualmente trabajo en el MINJUSDH
+
+cambio radical de la vida del arquitecto de software
