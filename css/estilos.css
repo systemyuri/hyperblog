@@ -5,14 +5,15 @@ body
     margin: 0;
     padding: 0;
     font-size: 16px;
+    background-color: #1e1f24;
 }
 #cabecera{
-    background-color: #33A;
+    background-color: #37488b;
     color: #FFF;
     margin: 0;
     padding: 0.5em;
-    -webkit-box-shadow: 4px 15px 22px 12px #000000; 
-box-shadow: 4px 15px 22px 12px #000000;
+    -webkit-box-shadow: 0px 2px 20px 0px rgb(0,0,0,0.5);
+box-shadow: 0px 2px 20px 0px rgb(0,0,0,0.5);
     font-weight: bold;
 }
 #cabecera #tagline{
@@ -37,4 +38,14 @@ box-shadow: 4px 15px 22px 12px #000000;
 #container div
 {
     padding: 10px;
+}
+
+#cabecera #logo
+{
+    width:  20px;
+    vertical-align: middle;
+}
+#post{
+    background-color: white;
+    padding: 1em;
 }
