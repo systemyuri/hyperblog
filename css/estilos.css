@@ -38,3 +38,10 @@ box-shadow: 4px 15px 22px 12px #000000;
 {
     padding: 10px;
 }
+
+#footer{
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
